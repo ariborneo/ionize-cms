@@ -1,0 +1,17 @@
+{
+    "name": "adaliszk/ionize-cms",
+    "type": "project",
+    "license": "MIT",
+    "minimum-stability": "dev",
+	"prefer-stable": false,
+    "authors": [
+        {
+            "name": "Ádám Liszkai",
+            "email": "adaliszk@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "adaliszk/ionize-core": "dev-master"
+    }
+}
