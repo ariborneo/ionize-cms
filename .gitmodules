@@ -1,0 +1,3 @@
+[submodule "vendor/adaliszk/ionize-core"]
+	path = vendor/adaliszk/ionize-core
+	url = https://github.com/adaliszk/ionize-core
